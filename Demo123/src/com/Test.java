@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("welcome to git");
 		System.out.println("new task");
 
+		System.out.println("changes from v2");
 	}
 
 }
